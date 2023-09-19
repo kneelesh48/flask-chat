@@ -3,11 +3,11 @@
 This is a simple chat application which uses Python, Flask and Socket IO. 
 
 ### Installation
-1. Clone the repository `git clone https://github.com/kneelesh48/wallpaper-changer`
-2. Install required python packages `pip install -r requirements.txt`
+* Clone the repository `git clone https://github.com/kneelesh48/wallpaper-changer`
+* Install required python packages `pip install -r requirements.txt`
 
 ### Run
-Execute the application by `python app.py`
+* Execute the application by `python app.py`
 
 ### Screenshots
 ![Login Screen](screenshots/Login%20Screen.png)
