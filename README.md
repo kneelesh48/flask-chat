@@ -10,5 +10,5 @@ This is a simple chat application which uses Python, Flask and Socket IO.
 * Execute the application by `python app.py`
 
 ### Screenshots
-![Login Screen](screenshots/Login%20Screen.png)
-![Chat Window](screenshots/Chat%20Window.png)
+| ![Login Screen](screenshots/Login%20Screen.png) | ![Chat Window](screenshots/Chat%20Window.png) |
+|--|--|
